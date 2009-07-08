@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Object-Previous
-version:            1.1010
+version:            1.1011
 abstract:           ~
 author:
     - Paul Miller <jettero@cpan.org>
